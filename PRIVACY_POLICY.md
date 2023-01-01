@@ -1,8 +1,8 @@
-## Artistic String: Privacy Policy
+## AI Artistic: Privacy Policy
 
-Welcome to the String Art app for Android!
+Welcome to the AI Artistic app for Android!
 
-This is an application that uses String Art algorithm developed by KThinking and this application is also available on Google Play.
+This is an application that usesAI Artistic algorithm developed by KThinking and this application is also available on Google Play.
 
 Features: Monochrome, multicolor and dark mode
 The application requires access to images for painting

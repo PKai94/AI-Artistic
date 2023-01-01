@@ -1,1 +1,1 @@
-# Arttistic-string
+# AI Artistic
