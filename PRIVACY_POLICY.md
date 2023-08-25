@@ -1,8 +1,8 @@
 ## AI Artistic: Privacy Policy
 
-Welcome to the AI Artistic app for Android!
+Welcome to the AI Artistic!
 
-This is an application that usesAI Artistic algorithm developed by KThinking and this application is also available on Google Play.
+This is an application that usesAI Artistic algorithm developed by KThinking.
 
 Features: AI Art generation
 - Text To Image
