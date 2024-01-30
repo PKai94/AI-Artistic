@@ -11,4 +11,4 @@ Features: AI Art generation
 
 If you have any questions regarding how the app protects your privacy, feel free to email me and I will definitely try to fix/help you.
 
-kaipham279@gmail.com - KaiPha
+kaipham94@gmail.com - KaiPha
