@@ -6,13 +6,13 @@ These terms of service ("Terms") apply to your access and use of AI Artistic (th
 
 ## Accepting these Terms
 
-If you access or use the Service, it means you agree to be bound by all of the terms below. So, before you use the Service, please read all of the terms. If you don't agree to all of the terms below, please do not use the Service. Also, if a term does not make sense to you, please let us know by e-mailing kaipham279@gmail.com.
+If you access or use the Service, it means you agree to be bound by all of the terms below. So, before you use the Service, please read all of the terms. If you don't agree to all of the terms below, please do not use the Service. Also, if a term does not make sense to you, please let us know by e-mailing kaipham94@gmail.com.
 
 ## Changes to these Terms
 
 We reserve the right to modify these Terms at any time. For instance, we may need to change these Terms if we come out with a new feature or for some other reason.
 
-Whenever we make changes to these Terms, the changes are effective 24/1/2024 after we post such revised Terms (indicated by revising the date at the top of these Terms) or upon your acceptance if we provide a mechanism for your immediate acceptance of the revised Terms (such as a click-through confirmation or acceptance button). It is your responsibility to check AI Artistic for changes to these Terms.
+Whenever we make changes to these Terms, the changes are effective 30/1/2024 after we post such revised Terms (indicated by revising the date at the top of these Terms) or upon your acceptance if we provide a mechanism for your immediate acceptance of the revised Terms (such as a click-through confirmation or acceptance button). It is your responsibility to check AI Artistic for changes to these Terms.
 
 If you continue to use the Service after the revised Terms go into effect, then you have accepted the changes to these Terms.
 
@@ -38,7 +38,7 @@ When you post, link or otherwise make available content to the Service, you gran
 
 Aside from our limited right to your content, you retain all of your rights to the content you post, link and otherwise make available on or through the Service.
 
-You can remove the content that you posted by deleting it. Once you delete your content, it will not appear on the Service, but copies of your deleted content may remain in our system or backups for some period of time. We will retain web server access logs for a maximum of 24/1/2024 and then delete them.
+You can remove the content that you posted by deleting it. Once you delete your content, it will not appear on the Service, but copies of your deleted content may remain in our system or backups for some period of time. We will retain web server access logs for a maximum of 30/1/2024 and then delete them.
 
 You may not post, link and otherwise make available on or through the Service any of the following:
 
@@ -97,4 +97,4 @@ Please let us know what you think of the Service, these Terms and, in general, A
 
 ## Questions & Contact Information
 
-Questions or comments about the Service may be directed to us at the email address kaipham279@gmail.com.
+Questions or comments about the Service may be directed to us at the email address kaipham94@gmail.com.
