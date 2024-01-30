@@ -9,6 +9,8 @@ Features: AI Art generation
 - Image To Image
 - Video To Anime
 
+Terms of use: https://github.com/PKai94/AvaSwap/blob/master/terms-of-use.md
+
 If you have any questions regarding how the app protects your privacy, feel free to email me and I will definitely try to fix/help you.
 
 kaipham279@gmail.com - KaiPha
