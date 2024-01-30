@@ -2,7 +2,7 @@
 
 Welcome to the AI Artistic!
 
-This is an application that usesAI Artistic algorithm developed by KaiPha.
+This is an application that uses AI Artistic algorithm developed by KaiPha.
 
 Features: AI Art generation
 - Text To Image
